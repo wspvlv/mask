@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/Wispy/AppData/Local/Temp/d05d-4975-2a5d-3122/758aae30ad60a4ae3a9f3743bfc6c1bb7",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/Wispy/AppData/Local/Temp/d05d-4975-2a5d-3122/758aae30ad60a4ae3a9f3743bfc6c1bb7/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "C:/Users/Wispy/AppData/Local/Temp/d05d-4975-2a5d-3122/758aae30ad60a4ae3a9f3743bfc6c1bb7/skylight-node_modules/@types"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
